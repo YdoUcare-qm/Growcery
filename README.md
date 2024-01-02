@@ -64,6 +64,25 @@ python main.py
 
    This command starts Celery Beat, which is responsible for scheduling and triggering periodic tasks.
 
+# Setting Up MailHog for Growcery App
+
+MailHog is a helpful tool for testing email functionality during development.
+
+## Installation
+
+1. Install MailHog 
+    Visit [MailHog Github Repository](https://github.com/mailhog/MailHog) to set up MailHog
+
+   
+
+2. Access MailHog Web Interface:
+
+    Visit [http://localhost:8025](http://localhost:8025) in your browser to access the MailHog web interface. This interface allows you to view emails sent by your application.
+
+
+
+
+
 
 
 
